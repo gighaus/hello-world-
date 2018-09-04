@@ -1,3 +1,3 @@
 # hello-world-
 This is my first repository :) 
-I am adding a description to this branch. 
+I am just starting this programming journey and do not know what I am doing 
